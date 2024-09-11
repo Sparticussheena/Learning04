@@ -9,7 +9,6 @@ public class Learning04Application {
     public static void main(String[] args) {
         System.out.println("Hello from Learning04Application 03");
         SpringApplication.run(Learning04Application.class, args);
-        ttre
     }
 
 }
