@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Learning04Application {
 
     public static void main(String[] args) {
-        System.out.println("Hello from Learning04Application 05");
+        System.out.println("Hello from Learning04Application 06");
         SpringApplication.run(Learning04Application.class, args);
     }
 
